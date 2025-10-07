@@ -1,7 +1,7 @@
 # CASEset
 Dataset and training for CASE: Context-Aware Screen-based Estimation of Gaze
 
-<img width="3456" height="2304" alt="image" src="https://github.com/user-attachments/assets/b67a4507-6303-4a8b-bda3-918951421f8a" />
+<img width="3456" height="2304" alt="Ezekiel_Mitchell_2025_CASEset" src="https://github.com/user-attachments/assets/ce472399-ff94-4dc9-9f7b-0202e5b76290" />
 
 ## Essential References for CASE | Data Collection & Training
 
