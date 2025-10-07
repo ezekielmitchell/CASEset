@@ -7,15 +7,13 @@ Dataset and training for CASE: Context-Aware Screen-based Estimation of Gaze
 
 [1] M. Tran and L. Milkowski (2024) "CASE: Context Aware Screen-Based Estimation of Gaze," Eighth IEEE International Conference on Robotic Computing (IRC), Tokyo, Japan, 2024, pp. 112-113, doi: 10.1109/IRC63610.2024.00028. https://ieeexplore.ieee.org/document/10818040
 
-[1] Bao, Y., Cheng, Y., Liu, Y., & Lu, F. (2022). Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets. 2022 26th International Conference on Pattern Recognition (ICPR), 1473-1479. https://doi.org/10.1109/ICPR56361.2022.9956543
+[2] Bao, Y., Cheng, Y., Liu, Y., & Lu, F. (2022). Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets. 2022 26th International Conference on Pattern Recognition (ICPR), 1473-1479. https://doi.org/10.1109/ICPR56361.2022.9956543
 
-[2] Cheng, Y., Wang, H., Bao, Y., & Lu, F. (2022). Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(11), 8428-8448. https://doi.org/10.1109/TPAMI.2021.3111128
+[3] Cheng, Y., Wang, H., Bao, Y., & Lu, F. (2022). Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(11), 8428-8448. https://doi.org/10.1109/TPAMI.2021.3111128
 
-[3] Chen, Z., & Shi, B. E. (2023). Towards High Performance Low Complexity Calibration in Appearance Based Gaze Estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(3), 3817-3829. https://doi.org/10.1109/TPAMI.2022.3182940
+[4] Chen, Z., & Shi, B. E. (2023). Towards High Performance Low Complexity Calibration in Appearance Based Gaze Estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(3), 3817-3829. https://doi.org/10.1109/TPAMI.2022.3182940
 
-[4] Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., et al. (2021). An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. International Conference on Learning Representations (ICLR). https://arxiv.org/abs/2010.11929
-
-[5] Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Lin, S., & Guo, B. (2021). Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. IEEE/CVF International Conference on Computer Vision (ICCV), 10012-10022. https://doi.org/10.1109/ICCV48922.2021.00986
+[5] Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., et al. (2021). An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. International Conference on Learning Representations (ICLR). https://arxiv.org/abs/2010.11929
 
 [6] Wang, W., Xie, E., Li, X., Fan, D. P., Song, K., Liang, D., et al. (2022). PVT v2: Improved Baselines with Pyramid Vision Transformer. Computational Visual Media, 8(3), 415-424. https://doi.org/10.1007/s41095-022-0274-8
 
