@@ -1,6 +1,8 @@
 # CASEset
 Dataset and training for CASE: Context-Aware Screen-based Estimation of Gaze
 
+<img width="3456" height="2304" alt="image" src="https://github.com/user-attachments/assets/b67a4507-6303-4a8b-bda3-918951421f8a" />
+
 ## Essential References for CASE | Data Collection & Training
 
 [1] Bao, Y., Cheng, Y., Liu, Y., & Lu, F. (2022). Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets. 2022 26th International Conference on Pattern Recognition (ICPR), 1473-1479. https://doi.org/10.1109/ICPR56361.2022.9956543
