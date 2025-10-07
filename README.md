@@ -5,6 +5,8 @@ Dataset and training for CASE: Context-Aware Screen-based Estimation of Gaze
 
 ## Essential References for CASE | Data Collection & Training
 
+[1] M. Tran and L. Milkowski (2024) "CASE: Context Aware Screen-Based Estimation of Gaze," Eighth IEEE International Conference on Robotic Computing (IRC), Tokyo, Japan, 2024, pp. 112-113, doi: 10.1109/IRC63610.2024.00028. https://ieeexplore.ieee.org/document/10818040
+
 [1] Bao, Y., Cheng, Y., Liu, Y., & Lu, F. (2022). Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets. 2022 26th International Conference on Pattern Recognition (ICPR), 1473-1479. https://doi.org/10.1109/ICPR56361.2022.9956543
 
 [2] Cheng, Y., Wang, H., Bao, Y., & Lu, F. (2022). Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(11), 8428-8448. https://doi.org/10.1109/TPAMI.2021.3111128
